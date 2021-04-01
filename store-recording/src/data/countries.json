@@ -1,0 +1,16 @@
+[
+    { "code": "AF", "name": "usa" },
+    { "code": "AX", "name": "canada" },
+    { "code": "EF", "name": "Italy" },
+    { "code": "AQ", "name": "Spain" },
+    { "code": "AI", "name": "UAE" },
+    { "code": "Ja", "name": "Japan" },
+    { "code": "Ch", "name": "China" },
+    { "code": "Ra", "name": "Romina" },
+    { "code": "Ir", "name": "iran" },
+    { "code": "Ur", "name": "Ukrain" },
+    { "code": "Ru", "name": "Russia" },
+    { "code": "Br", "name": "Brazil" },
+    { "code": "Sw", "name": "Sweden" }
+
+]
